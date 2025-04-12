@@ -1,5 +1,8 @@
 # Crypted: README File
 
+## Description
+Crypted is a 2d Puzzle game where you discover unique cryptids and use their powers to solve the puzzles at hand to escape the crypts.
+
 ## Instructions to Start the Game
 1. Unzip the provided folder.
 2. Double-click the `.exe` file to launch the game.
